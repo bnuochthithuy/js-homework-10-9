@@ -1,0 +1,16 @@
+
+table{
+    width: 600px;
+    border-spacing: 0;
+    border: 1px solid #ae3d3d;
+}
+#tbl tr{
+    height: 27px;
+}
+#tbltr th, #tbl tr td{
+    text-align: left;
+    border-bottom: 1px solid#8a3737;
+}
+#tbltr:last-child td{
+    border: none;
+}
